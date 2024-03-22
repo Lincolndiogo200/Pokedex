@@ -4,4 +4,4 @@ A pokedex where I can search by pokemon name or number, and it presents me with 
 
 
 ## Link
-[Working app]([https://pokedex-mu-gray.vercel.app/](https://lincolndiogo200.github.io/pokedex/)https://lincolndiogo200.github.io/pokedex/)
+[Working app](https://lincolndiogo200.github.io/pokedex/)
